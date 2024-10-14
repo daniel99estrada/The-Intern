@@ -159,7 +159,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 45.8
-  rotationSpeed: 720
 --- !u!114 &488053577
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -582,7 +581,7 @@ GameObject:
   - component: {fileID: 2074575083}
   - component: {fileID: 2074575082}
   m_Layer: 0
-  m_Name: ground
+  m_Name: Ground
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
